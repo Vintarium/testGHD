@@ -1,2 +1,3 @@
 привед медвед
 пепа шнейна ватафа
+wrote somethink in the doc on newBranch (features1)
